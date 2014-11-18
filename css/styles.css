@@ -4,3 +4,10 @@ color: #fff;
 padding: 4px 12px;
 margin: 24px 0;
 }
+
+
+#main{
+	margin: 7px;
+	width: 320px;
+	float: left;
+}
