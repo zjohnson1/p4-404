@@ -1,5 +1,6 @@
-.black-50{
-	background: black;
-	opacity: 50%;
-	z-index: 2;
+.black-50 {
+background: url(../media/black-50-trans.png);
+color: #fff;
+padding: 4px 12px;
+margin: 24px 0;
 }
