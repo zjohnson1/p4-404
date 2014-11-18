@@ -3,6 +3,25 @@ background: url(../media/black-50-trans.png);
 color: #fff;
 padding: 4px 12px;
 margin: 24px 0;
+font-family: 'Caudex', serif;
+}
+
+h1{
+	color: #ee3524;
+	font-style: bold;
+}
+
+h2{
+	color: #1b8bab;
+}
+
+a{
+	color: white;
+	padding-left: 10px;
+}
+
+a:hover{
+	color: orange;
 }
 
 
