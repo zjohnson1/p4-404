@@ -21,7 +21,7 @@ a{
 }
 
 a:hover{
-	color: orange;
+	color: gray;
 }
 
 
@@ -29,5 +29,4 @@ a:hover{
 	margin: 7px;
 	width: 320px;
 	float: left;
-	background: black;
 }
