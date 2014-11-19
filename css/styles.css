@@ -1,6 +1,6 @@
 .black-50 {
-background: url(../media/black-50-trans.png);
-color: #fff;
+
+color: black;
 padding: 4px 12px;
 margin: 24px 0;
 font-family: 'Caudex', serif;
@@ -21,7 +21,7 @@ a{
 }
 
 a:hover{
-	color: gray;
+	color: #68be45;
 }
 
 
@@ -29,5 +29,5 @@ a:hover{
 	margin: 7px;
 	width: 320px;
 	float: left;
-	background: #e0dfdf 50%;
+	background: white;
 }
